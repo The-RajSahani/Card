@@ -1,4 +1,4 @@
-Got it! Here's an updated README.md with your GitHub username:
+
 # Raj Sahani - Web Developer Portfolio 🚀
 
 Welcome to my personal web development portfolio! Here, I showcase my expertise in crafting **beautiful, functional, and secure** websites by blending technical precision with artistic innovation.
