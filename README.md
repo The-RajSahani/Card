@@ -3,6 +3,9 @@
 
 Welcome to my personal web development portfolio! Here, I showcase my expertise in crafting **beautiful, functional, and secure** websites by blending technical precision with artistic innovation.
 
+Live Preview
+(https://the-rajsahani.github.io/Card/)
+
 ## 🌟 About Me
 Hi, I'm **Raj Sahani**, a web developer passionate about creating engaging and visually stunning web experiences. I love experimenting with modern design elements like **rounded corners, shadow effects, and responsive layouts** to enhance the user experience.
 
@@ -28,7 +31,7 @@ An experimental project exploring animations, transitions, and **dynamic effects
 - Exploring **new artistic approaches** for web visuals.
 
 ## 📬 Get In Touch
-- **GitHub:** [the-Raj01](https://github.com/the-Raj01)
+- **GitHub:** [the-Raj01](https://github.com/the-RajSahani)
 - **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/raj-sahani-35082335b)
 - **Portfolio Website:** [YourWebsite](https://yourwebsite.com)
 
